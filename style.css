@@ -1,0 +1,126 @@
+
+
+#ava {
+    width: 12%;
+    padding-left: 20%;
+    padding-bottom: 10%;
+    padding-top: 1%;
+    float: left;
+}
+
+
+#описание {
+    width: 60%;
+    float: right;
+    margin-right: 1%;
+}
+
+#название {
+    text-align: left;
+    font-size: 25px;
+    width: 10%;
+    float: right;
+    margin-right: 4.5%;
+}
+
+   
+
+
+
+#btn {
+    text-align: center;
+    width: 5%;
+    float: right;
+    background-color: #0095f6;
+    border-radius: 3px;
+    border: none;
+    margin: 15px;
+    padding: 10px;
+    margin-right: 40%;
+    margin-top: 25px;
+    font-size: small;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#post {
+    width: 28%;
+    padding: 1%;
+}
+
+.posts {
+    margin-left: 11%;
+    margin-right: 11%;
+    text-align: center;
+}
+
+.отталкивание {
+    margin-bottom: 50px;
+}
+
+.button {
+    margin-bottom: 25px;
+    margin-left: 43%;
+    margin-right: 42%;
+    padding: 10px 40px;
+    background: #0095f6;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 3px;
+    position: relative;
+    overflow-x: hidden;
+    font-family: OpenSans-Light;
+}
+
+.button .flare {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 30px;
+    transform: skewX(-45deg);
+    animation: flareAnimation;
+    left: -150%;
+    background: linear-gradient(90deg, rgb(255, 255, 255), rgb(255, 255, 255));
+    animation: flareAnimation 2s infinite linear;
+}
+
+@keyframes flareAnimation {
+    0% {
+        left: -150%;
+    }
+    100% {
+        left: 150%;
+    }
+}
+
+.clean {
+    margin-top: 50px;
+}
+
+.row:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+  .row { display: inline-block; }
+  /* start commented backslash hack \*/
+  * html .row { height: 1%; }
+  .row { display: block; }
+  /* close commented backslash hack */
+
+  @font-face {
+    font-family: "OpenSans-Light"; 
+    src: url("fonts/OpenSans-Light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+
+p{
+    font-family: "OpenSans-Light";
+    }
