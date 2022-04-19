@@ -31,17 +31,17 @@
 
 #btn {
     text-align: center;
-    width: 11%;
+    width: 15%;
     float: right;
     background-color: #0095f6;
-    border-radius: 3px;
+    border-radius: 10px;
     border: none;
     padding: 20px;
     margin: 15px;
-    margin-right: 25%;
+    margin-right: 20%;
     margin-left: 5%;
-    margin-top: 6%;
-    font-size: 25px;
+    margin-top: 5%;
+    font-size: 35px;
     color: white;
     font-weight: bold;
     cursor: pointer;
