@@ -657,13 +657,13 @@ section>img{
 	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
 }
 .sect6 .bull>li:nth-child(1):before{
-	background: url("../images/s6_icon1.png");
+	background: url("../images/s6_icon1.webp");
 }
 .sect6 .bull>li:nth-child(2):before{
-	background: url("../images/s6_icon2.png");
+	background: url("../images/s6_icon2.webp");
 }
 .sect6 .bull>li:nth-child(3):before{
-	background: url("../images/s6_icon3.png");
+	background: url("../images/s6_icon3.webp");
 }
 .sect6 .bull>li:after{
 	content: '';
