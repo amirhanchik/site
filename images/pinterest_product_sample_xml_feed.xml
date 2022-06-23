@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Amir Nasifullin</Author>
+  <LastAuthor>Amir Nasifullin</LastAuthor>
+  <Created>2022-06-23T11:44:34Z</Created>
+  <LastSaved>2022-06-23T11:35:39Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7515</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63" ss:Name="Гиперссылка">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#0563C1" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s63">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="pinterest_product_sample_xml_fe">
+  <Table ss:ExpandedColumnCount="23" ss:ExpandedRowCount="3" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="51.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="107.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="225.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="147.75"/>
+   <Column ss:Width="426"/>
+   <Column ss:Width="315.75"/>
+   <Column ss:Width="308.25"/>
+   <Column ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="112.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Column ss:Width="64.5"/>
+   <Column ss:Width="53.25"/>
+   <Column ss:Width="57"/>
+   <Column ss:Width="69.75"/>
+   <Column ss:Width="110.25"/>
+   <Column ss:Width="71.25"/>
+   <Column ss:Width="54.75"/>
+   <Column ss:Width="75"/>
+   <Column ss:Width="76.5"/>
+   <Column ss:Width="64.5"/>
+   <Column ss:Width="114"/>
+   <Column ss:Width="327.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">version</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:id</Data></Cell>
+    <Cell><Data ss:Type="String">title</Data></Cell>
+    <Cell><Data ss:Type="String">description</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:product_type</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:google_product_category</Data></Cell>
+    <Cell><Data ss:Type="String">link</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:image_link</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:condition</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:availability</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:price</Data></Cell>
+    <Cell><Data ss:Type="String">sale_price</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:ean</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:mpn</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:brand</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:custom_label_0</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:country</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:rate</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:tax_ship</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:country2</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:price3</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:identifier_exists</Data></Cell>
+    <Cell><Data ss:Type="String">ns1:additional_image_link</Data></Cell>
+   </Row>
+   <Row ss:Height="270">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Sterling silver set with amethyst stones</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">&#128167; Endless admiration!&#10;Everyone will notice them, you can not go by such brilliance.⚡&#10;&#10;Jewelry set with amethyst stones in silver and gilt.&#10;Zircon Fine Stones.&#10;&#127873;Choose a gift for yourself, family or friends for a special occasion and we will help you. We have the best quality jewelry sets, rings, earrings, pendants and more.&#10;&#128141;The rings on these models are universal that is without size.&#10;Amethyst stone artificially grown.&#10;&#10;Our jewelry is beautifully packaged in a gift box and ready to give as a gift&#127873;.&#10;✔️Jewelry is rhodium plated,which is non-tarnishing, and nickel free, metal: Sterling Silver with 925 stamp, as well as gilded silver in good quality.&#10;More items in my store - go to.&#10;Have a great shopping with us!</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Apparel &amp; Accessories &gt; Jewelry</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Apparel &amp; Accessories &gt; Jewelry</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="https://www.etsy.com/listing/1189512388/"><Data
+      ss:Type="String">https://www.etsy.com/listing/1189512388/</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="https://i.etsystatic.com/34754263/r/il/95642b/3811070987/il_794xN.3811070987_zi8d.jpg"><Data
+      ss:Type="String">https://i.etsystatic.com/34754263/r/il/95642b/3811070987/il_794xN.3811070987_zi8d.jpg</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">New</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">In Stock</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">75.00 USD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">75.00 USD</Data></Cell>
+    <Cell><Data ss:Type="Number">5050000000000</Data></Cell>
+    <Cell><Data ss:Type="Number">5000000</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Besty Silver</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bestseller</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">US</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">n</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">US</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">0 USD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">FALSE</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="3" ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:Index="15" ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:Index="19" ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <RangeSelection>R3C1:R3C25</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false"
+  x2:SelectionNamespaces="xmlns:ns1='http://base.google.com/ns/1.0'">
+  <x2:Schema x2:ID="Schema1" x2:Namespace="http://base.google.com/ns/1.0"><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://base.google.com/ns/1.0" xmlns:ns0="http://base.google.com/ns/1.0"><xsd:element nillable="true" type="xsd:integer" name="id"></xsd:element><xsd:element nillable="true" type="xsd:string" name="product_type"></xsd:element><xsd:element nillable="true" type="xsd:string" name="google_product_category"></xsd:element><xsd:element nillable="true" type="xsd:anyURI" name="image_link"></xsd:element><xsd:element nillable="true" type="xsd:string" name="condition"></xsd:element><xsd:element nillable="true" type="xsd:string" name="availability"></xsd:element><xsd:element nillable="true" type="xsd:string" name="price"></xsd:element><xsd:element nillable="true" type="xsd:integer" name="ean"></xsd:element><xsd:element nillable="true" type="xsd:integer" name="mpn"></xsd:element><xsd:element nillable="true" type="xsd:string" name="brand"></xsd:element><xsd:element nillable="true" type="xsd:string" name="custom_label_0"></xsd:element><xsd:element nillable="true" name="tax"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="country" form="qualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="rate" form="qualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="tax_ship" form="qualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element><xsd:element nillable="true" name="shipping"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="country" form="qualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="price" form="qualified"></xsd:element></xsd:sequence></xsd:complexType></xsd:element><xsd:element nillable="true" type="xsd:string" name="identifier_exists"></xsd:element><xsd:element nillable="true" type="xsd:anyURI" name="additional_image_link"></xsd:element></xsd:schema></x2:Schema>
+  <x2:Schema x2:ID="Schema2" x2:SchemaRef="Schema1" x2:Namespace=""><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ns0="http://base.google.com/ns/1.0"><xsd:import namespace="http://base.google.com/ns/1.0"></xsd:import><xsd:element nillable="true" name="rss"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" name="channel" form="unqualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="item" form="unqualified"><xsd:complexType><xsd:all><xsd:element minOccurs="0" ref="ns0:id"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="title" form="unqualified"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="description" form="unqualified"></xsd:element><xsd:element minOccurs="0" ref="ns0:product_type"></xsd:element><xsd:element minOccurs="0" ref="ns0:google_product_category"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:anyURI" name="link" form="unqualified"></xsd:element><xsd:element minOccurs="0" ref="ns0:image_link"></xsd:element><xsd:element minOccurs="0" ref="ns0:condition"></xsd:element><xsd:element minOccurs="0" ref="ns0:availability"></xsd:element><xsd:element minOccurs="0" ref="ns0:price"></xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="sale_price" form="unqualified"></xsd:element><xsd:element minOccurs="0" ref="ns0:ean"></xsd:element><xsd:element minOccurs="0" ref="ns0:mpn"></xsd:element><xsd:element minOccurs="0" ref="ns0:brand"></xsd:element><xsd:element minOccurs="0" ref="ns0:custom_label_0"></xsd:element><xsd:element minOccurs="0" ref="ns0:tax"></xsd:element><xsd:element minOccurs="0" ref="ns0:shipping"></xsd:element><xsd:element minOccurs="0" ref="ns0:identifier_exists"></xsd:element><xsd:element minOccurs="0" ref="ns0:additional_image_link"></xsd:element></xsd:all></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence><xsd:attribute name="version" form="unqualified" type="xsd:double"></xsd:attribute></xsd:complexType></xsd:element></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="rss_карта" x2:SchemaID="Schema2" x2:RootElement="rss">
+   <x2:Entry x2:Type="table" x2:ID="1" x2:ShowTotals="false">
+    <x2:Range>pinterest_product_sample_xml_fe!R2C1:R3C23</x2:Range>
+    <x2:HeaderRange>R1C1</x2:HeaderRange>
+    <x:FilterOn>True</x:FilterOn>
+    <x2:XPath>/rss</x2:XPath>
+    <x2:Field x2:ID="version">
+     <x2:Range>RC</x2:Range>
+     <x2:XPath>@version</x2:XPath>
+     <x2:XSDType>double</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:id">
+     <x2:Range>RC[1]</x2:Range>
+     <x2:XPath>channel/item/ns1:id</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="title">
+     <x2:Range>RC[2]</x2:Range>
+     <x2:XPath>channel/item/title</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="description">
+     <x2:Range>RC[3]</x2:Range>
+     <x2:XPath>channel/item/description</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:product_type">
+     <x2:Range>RC[4]</x2:Range>
+     <x2:XPath>channel/item/ns1:product_type</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:google_product_category">
+     <x2:Range>RC[5]</x2:Range>
+     <x2:XPath>channel/item/ns1:google_product_category</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="link">
+     <x2:Range>RC[6]</x2:Range>
+     <x2:XPath>channel/item/link</x2:XPath>
+     <x2:XSDType>anyURI</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:image_link">
+     <x2:Range>RC[7]</x2:Range>
+     <x2:XPath>channel/item/ns1:image_link</x2:XPath>
+     <x2:XSDType>anyURI</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:condition">
+     <x2:Range>RC[8]</x2:Range>
+     <x2:XPath>channel/item/ns1:condition</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:availability">
+     <x2:Range>RC[9]</x2:Range>
+     <x2:XPath>channel/item/ns1:availability</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:price">
+     <x2:Range>RC[10]</x2:Range>
+     <x2:XPath>channel/item/ns1:price</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="sale_price">
+     <x2:Range>RC[11]</x2:Range>
+     <x2:XPath>channel/item/sale_price</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:ean">
+     <x2:Range>RC[12]</x2:Range>
+     <x2:XPath>channel/item/ns1:ean</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:mpn">
+     <x2:Range>RC[13]</x2:Range>
+     <x2:XPath>channel/item/ns1:mpn</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:brand">
+     <x2:Range>RC[14]</x2:Range>
+     <x2:XPath>channel/item/ns1:brand</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:custom_label_0">
+     <x2:Range>RC[15]</x2:Range>
+     <x2:XPath>channel/item/ns1:custom_label_0</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:country">
+     <x2:Range>RC[16]</x2:Range>
+     <x2:XPath>channel/item/ns1:tax/ns1:country</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:rate">
+     <x2:Range>RC[17]</x2:Range>
+     <x2:XPath>channel/item/ns1:tax/ns1:rate</x2:XPath>
+     <x2:XSDType>integer</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:tax_ship">
+     <x2:Range>RC[18]</x2:Range>
+     <x2:XPath>channel/item/ns1:tax/ns1:tax_ship</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:country2">
+     <x2:Range>RC[19]</x2:Range>
+     <x2:XPath>channel/item/ns1:shipping/ns1:country</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:price3">
+     <x2:Range>RC[20]</x2:Range>
+     <x2:XPath>channel/item/ns1:shipping/ns1:price</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:identifier_exists">
+     <x2:Range>RC[21]</x2:Range>
+     <x2:XPath>channel/item/ns1:identifier_exists</x2:XPath>
+     <x2:XSDType>string</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+    <x2:Field x2:ID="ns1:additional_image_link">
+     <x2:Range>RC[22]</x2:Range>
+     <x2:XPath>channel/item/ns1:additional_image_link</x2:XPath>
+     <x2:XSDType>anyURI</x2:XSDType>
+     <ss:Cell>
+     </ss:Cell>
+     <x2:Aggregate>None</x2:Aggregate>
+    </x2:Field>
+   </x2:Entry>
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>rss_карта</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\Users\Амир\Downloads\Telegram Desktop\pinterest_product_sample_xml_feed.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
